@@ -2,6 +2,8 @@
 
 an element wrapper around oidc-client.js for authenticating against IdentityServer4
 
+you can find a working demo here: https://github.com/joeaudette/cloudscribe.StarterKits/tree/master/cloudscribe-idserver-nodb
+
 ## Install the Polymer-CLI
 
 First, make sure you have the [Polymer CLI](https://www.npmjs.com/package/polymer-cli) installed. Then run `polymer serve` to serve your application locally.
